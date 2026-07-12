@@ -18,6 +18,6 @@ public abstract class PlanDatos {
     }
 
     public String toString() {
-        return "Plan: " + nombre + "\nTasa" + tasa;
+        return "Plan: " + nombre + "\nTasa: " + tasa;
     }
 }
