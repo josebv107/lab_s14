@@ -13,8 +13,8 @@ public abstract class PlanDatos {
         this.tasa = tasa;
     }
 
-    public float calculoPago(int datos) {
-        return datos * tasa;
+    public float calculoPago(int megasConsumidos) {
+        return megasConsumidos * tasa;
     }
 
     public String toString() {
