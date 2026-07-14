@@ -33,7 +33,7 @@ El diagrama muestra dos jerarquías paralelas:
 
 ## Estructura del proyecto
 
-![estructuraProyecto.png](docs/estructuraProyecto.png)
+![estructuraNuevaProyecto.png](docs/estructuraNuevaProyecto.png)
 
 ## Salida del programa
 
