@@ -6,7 +6,7 @@ import factory.FabricaLineaRapida;
 import factory.FabricaMovistar;
 import model.PlanDatos;
 
-public class PlanDatosFactory {
+public class FabricaPlanesDatos {
 
     public static void calculoConsumo(FabricaCreadora fabrica, String tipo, int numeroMegasConsumido) {
         PlanDatos plan = fabrica.crearPlanDatos(tipo);
